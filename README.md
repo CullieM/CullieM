@@ -1,4 +1,10 @@
-### Hi there 👋
+### Cuchulainn "Cullie" McElduff  *(he/him)*
+
+- Software Developer @ Launtel  
+- ICT Graduate
+
+
+[LinkedIn / email](https://www.culliem.com)
 
 <!--
 **CullieM/CullieM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
