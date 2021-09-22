@@ -1,5 +1,4 @@
-<img src='https://user-images.githubusercontent.com/80604874/134267764-ac547d87-59b0-4e85-8eb4-a17c114a5f63.jpg' height='300px' align='left'>
-
+<img src='https://user-images.githubusercontent.com/80604874/134267764-ac547d87-59b0-4e85-8eb4-a17c114a5f63.jpg' height='350px' align='left'>
 ### **Cuchulainn "Cullie" McElduff**  *(he/him)*  
 Full Stack Software Developer @ [Launtel](https://launtel.net.au/)    
 Bachelor of ICT from the University of Tasmania  
