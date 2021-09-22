@@ -2,10 +2,10 @@
 
 ### **Cuchulainn "Cullie" McElduff**  *(he/him)*  
 Full Stack Software Developer @ [Launtel](https://launtel.net.au/)    
-BICT from University of Tasmania  
+Bachelor of ICT from the University of Tasmania  
 [Website](https://www.culliem.com) | [LinkedIn](https://www.linkedin.com/in/cullie/) | [Steam](https://steamcommunity.com/id/cullie/)  
   
-Proficient in C and C derivatives, love/hate relationship with TypeScript and JavaScript by inheritance. I'm currently learning Perl and expanding my knowledge in Swift.  
+Proficient in C and C derivatives, love/hate relationship with TypeScript (and JavaScript by inheritance). I'm currently learning Perl and expanding my knowledge in Swift.  
   
 I'm a massive video game nerd and a hospitality veteran with the burns to prove it. Hollow Knight fanart courtesy of my partner <3
 
