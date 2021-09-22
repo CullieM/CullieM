@@ -1,10 +1,15 @@
-### Cuchulainn "Cullie" McElduff  *(he/him)*
+### **Cuchulainn "Cullie" McElduff**  *(he/him)*  
+Full Stack Software Developer @ Launtel  
+[Website](https://www.culliem.com) | [LinkedIn](https://www.linkedin.com/in/cullie/) | [Steam](https://steamcommunity.com/id/cullie/)  
 
-- Software Developer @ Launtel  
-- ICT Graduate
+- Proficient in C and C derivatives.   
+- Love/hate relationship with TypeScript (and JavaScript by inheritance).   
+- Learning Perl and Swift.   
+- Big video game nerd and hospitality veteran.
 
 
-[LinkedIn / email](https://www.culliem.com)
+
+
 
 <!--
 **CullieM/CullieM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
