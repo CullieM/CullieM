@@ -1,15 +1,14 @@
-<img src='https://user-images.githubusercontent.com/80604874/134440118-5c32f9ea-f2e0-4b9b-b31b-6573a6d369eb.jpeg' height='300px' align='left'>
+<img src='https://user-images.githubusercontent.com/80604874/134793057-1790b995-6fea-465e-b9a8-844096a070fc.jpg' height='300px' align='left'>
 
 ### **Cuchulainn "Cullie" McElduff**  *(he/him)*  
 Full Stack Software Developer @ [Launtel](https://launtel.net.au/)    
-Bachelor of ICT from the University of Tasmania  
+Bachelor of ICT, Cybersecurity from the University of Tasmania  
+  
 [Website](https://www.culliem.com) | [LinkedIn](https://www.linkedin.com/in/cullie/) | [Steam](https://steamcommunity.com/id/cullie/)  
   
 Proficient in C and C derivatives, love/hate relationship with everything web. I'm currently learning Perl and expanding my knowledge in Swift.  
   
-**Favourite Games:**  
-  
-Zelda BotW, Mario Sunshine, Halo 3, and Minecraft.
+Hollow Knight fan art courtesy of my partner.
 
 
 
