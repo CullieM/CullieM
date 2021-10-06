@@ -2,7 +2,7 @@
 
 ### **Cuchulainn "Cullie" McElduff**  *(he/him)*  
 Full Stack Software Developer @ [Launtel](https://launtel.net.au/)    
-Bachelor of ICT, Cybersecurity from the University of Tasmania  
+Bachelor of ICT in Cybersecurity from UTAS  
   
 [Website](https://www.culliem.com) | [LinkedIn](https://www.linkedin.com/in/cullie/) | [Steam](https://steamcommunity.com/id/cullie/)  
   
