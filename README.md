@@ -5,7 +5,7 @@
 Bachelor of ICT, Cybersecurity  
 University of Tasmania    
   
-[Website](https://www.culliem.com) | [LinkedIn](https://www.linkedin.com/in/cullie/) | [Steam](https://steamcommunity.com/id/cullie/)  
+[Website](https://culliem.com) | [LinkedIn](https://www.linkedin.com/in/cullie/) | [Steam](https://steamcommunity.com/id/cullie/)  
   
 Proficient in C and C derivatives, love/hate relationship with everything web. I'm currently learning Perl and expanding my knowledge in Swift.  
   
