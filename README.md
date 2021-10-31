@@ -9,6 +9,6 @@ Bachelor of ICT in Cybersecurity
   
 Proficient in C and C derivatives, love/hate relationship with everything web. I'm currently learning Perl and expanding my knowledge in Swift.  
   
- :video_game: Currently playing: **Metroid Dread**
+ :video_game: Currently playing: **Luigi's Mansion 3**
  
 <!-- Hollow Knight fan art courtesy of my love. -->
