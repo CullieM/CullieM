@@ -7,8 +7,9 @@ Bachelor of ICT in Cybersecurity
   
 [Website](https://culliem.com) | [LinkedIn](https://www.linkedin.com/in/cullie/) | [Steam](https://steamcommunity.com/id/cullie/)  
   
-Proficient in C and C derivatives, love/hate relationship with everything web. I'm currently learning Perl and expanding my knowledge in Swift.  
+Currently developing a Laravel application and maintaining a Perl Dancer site. Average Typescript enjoyer.
   
- :video_game: Currently playing: **Luigi's Mansion 3**
+ :video_game: Currently playing:  
+ **Pokémon Legends: Arceus, Disco Elysium, and Half-Life: Alyx**
  
 <!-- Hollow Knight fan art courtesy of my love. -->
