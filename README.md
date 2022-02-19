@@ -3,13 +3,12 @@
 ### **Cuchulainn "Cullie" McElduff**  *(he/him)*  
   
 Software Developer @ [Launtel](https://launtel.net.au)  
-Bachelor of ICT in Cybersecurity
+Bachelor of ICT in Cybersecurity  
   
 [Website](https://culliem.com) | [LinkedIn](https://www.linkedin.com/in/cullie/) | [Steam](https://steamcommunity.com/id/cullie/)  
   
-Currently developing a Laravel application and maintaining a Perl Dancer site. Average Typescript enjoyer.
+Currently developing a Laravel application and maintaining a Perl Dancer site.  
   
- :video_game: Currently playing:  
- **Pokémon Legends: Arceus, Disco Elysium, and Half-Life: Alyx**
+ :video_game: Playing: **Pokémon Legends: Arceus & Disco Elysium**
  
 <!-- Hollow Knight fan art courtesy of my love. -->
