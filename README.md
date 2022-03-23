@@ -9,6 +9,6 @@ Bachelor of ICT in Cybersecurity
   
 Currently developing a Laravel application and maintaining a Perl Dancer site.  
   
- :video_game: Playing: **Pokémon Legends: Arceus & Disco Elysium**
+ :video_game: Playing: **Tunic**
  
 <!-- Hollow Knight fan art courtesy of my love. -->
