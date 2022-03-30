@@ -9,6 +9,6 @@ Bachelor of ICT in Cybersecurity
   
 Currently developing a Laravel application and maintaining a Perl Dancer site.  
   
- :video_game: Playing: **Tunic**
+ :video_game: Playing: **Kirby and the Forgotten Land**
  
 <!-- Hollow Knight fan art courtesy of my love. -->
