@@ -2,7 +2,7 @@
 
 ### **Cuchulainn "Cullie" McElduff**  *(he/him)*  
   
-Software Developer @ [Launtel](https://launtel.net.au)  
+Software Developer @ [Launtel](https://github.com/launtel)  
 Bachelor of ICT in Cybersecurity  
   
 [Website](https://culliem.com) | [LinkedIn](https://www.linkedin.com/in/cullie/) | [Steam](https://steamcommunity.com/id/cullie/)  
