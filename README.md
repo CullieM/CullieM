@@ -2,12 +2,12 @@
 
 ### **Cuchulainn "Cullie" McElduff**  *(he/him)*  
   
-Software Developer @ [Launtel](https://github.com/launtel)  
+Senior Developer @ DPFEM 
 Bachelor of ICT in Cybersecurity  
   
 [Website](https://culliem.com) | [LinkedIn](https://www.linkedin.com/in/cullie/) | [Steam](https://steamcommunity.com/id/cullie/)  
   
-Currently developing a Laravel application and maintaining a Perl Dancer site.  
+Currently learning Grails and .NET Core.  
   
 <!--  :video_game: Playing: **Norco** -->
  
