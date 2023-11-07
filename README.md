@@ -2,7 +2,7 @@
 
 ### **Cuchulainn "Cullie" McElduff**  *(he/him)*  
   
-Senior Developer @ DPFEM 
+Senior Developer @ DPFEM  
 Bachelor of ICT in Cybersecurity  
   
 [Website](https://culliem.com) | [LinkedIn](https://www.linkedin.com/in/cullie/) | [Steam](https://steamcommunity.com/id/cullie/)  
