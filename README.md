@@ -1,13 +1,10 @@
-#### **Cuchulainn "Cullie" McElduff** *(he/him)*   
-Application Consultant @ DPFEM | Bachelor of ICT  
-  
 <img src='https://user-images.githubusercontent.com/80604874/134793057-1790b995-6fea-465e-b9a8-844096a070fc.jpg' 
   height='300px' 
   align='left' 
   alt="Hollow Knight fan-art by Rosie" 
   aria-label="Hollow Knight fan-art by Rosie">
   
-#### [Website](https://culliem.com) | [LinkedIn](https://www.linkedin.com/in/cullie/) | [Steam](https://steamcommunity.com/id/cullie/)   
+## [Website](https://culliem.com) | [LinkedIn](https://www.linkedin.com/in/cullie/) | [Steam](https://steamcommunity.com/id/cullie/)   
 
   My silly little experiments: 
   
