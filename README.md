@@ -12,7 +12,7 @@
   - [CullieM/skin](https://CullieM.com/skin)
   - [CullieM/sweat-tooth](https://CullieM.com/sweat-tooth)
   - [CullieM/status](https://CullieM.com/status)
-  - [CullieM/threejs-portfolio](https://CullieM.com/threejs-portfolio)
+  - [CullieM/threejs-portfolio](https://CullieM.com/threejs-demo)
   - [CullieM/shift-work](https://CullieM.com/shift-work)
 
 Hollow Knight fanart by Rosie ❤️
