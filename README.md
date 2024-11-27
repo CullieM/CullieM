@@ -1,4 +1,4 @@
-<img src='https://user-images.githubusercontent.com/80604874/134793057-1790b995-6fea-465e-b9a8-844096a070fc.jpg' 
+<!-- <img src='https://user-images.githubusercontent.com/80604874/134793057-1790b995-6fea-465e-b9a8-844096a070fc.jpg' --> 
   height='300px' 
   align='left' 
   alt="Hollow Knight fan-art by Rosie" 
