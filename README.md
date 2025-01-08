@@ -15,7 +15,7 @@
   - [CullieM/threejs-portfolio](https://CullieM.com/threejs-demo)
   - [CullieM/shift-work](https://CullieM.com/shift-work)
 
-Hollow Knight fanart by Rosie ❤️
+<!--  Hollow Knight fanart by Rosie ❤️ -->
 <!--  :video_game: Playing: **Norco** -->
  
 <!-- Hollow Knight fan art courtesy of my love. -->
